@@ -63,12 +63,30 @@ Just report them here in this repo as issues. Include the details in Settings ->
 
 ## Showcase
 
-Immersive Fullscreen
+Immersive Fullscreen  
 <img width="3136" height="2126" alt="immersive fullscreen" src="https://github.com/user-attachments/assets/f05d4714-4e62-4f62-8857-d6f31cc73560" />
 
-Immersive Fullscreen Artwork
+Immersive Fullscreen Artwork  
 <img width="3136" height="2126" alt="immersive fullscreen artwork" src="https://github.com/user-attachments/assets/148004f1-3a6d-4949-b3cc-8eeef2232dbb" />
 
-Artist Page
-<img width="3136" height="2126" alt="artist page" src="https://github.com/user-attachments/assets/cc84783a-83f3-4411-b371-ecec0b775c61" />
+Album Page  
+<img width="3136" height="2126" alt="album page" src="https://github.com/user-attachments/assets/e4a8ef82-a2c2-4920-b2cc-52cd8e28409e" />
+
+Artist Page  
+<img width="3136" height="2126" alt="artist page" src="https://github.com/user-attachments/assets/474c557d-099b-4da5-a610-1709228a9dc6" />
+
+Search Page  
+<img width="3136" height="2126" alt="search page" src="https://github.com/user-attachments/assets/ec5a9801-b24c-4392-83e9-03bebf8ea889" />
+
+Home Page  
+<img width="3136" height="2126" alt="home page" src="https://github.com/user-attachments/assets/78354aca-339d-47c3-bcdc-593b50c44e21" />
+
+Mini Player  
+<img width="572" height="302" alt="mini player" src="https://github.com/user-attachments/assets/d975edae-68a1-4ed8-a0ce-6bdcc9cafd53" />
+
+Immersive Mini Player  
+<img width="432" height="432" alt="immersive mini player" src="https://github.com/user-attachments/assets/ee1b2846-d332-4ad7-8be8-5a3e245ef505" />
+
+Lyrics Widget (Also available with transparent background)  
+<img width="819" height="613" alt="lyrics widget" src="https://github.com/user-attachments/assets/2e8a284b-d993-4254-896a-79b7654537ab" />
 
