@@ -1,4 +1,16 @@
-## v0.1.9
+## v0.1.11
+
+### Announcements
+
+🎉 Öpfelmusig Lib release [on npm](https://www.npmjs.com/package/@opfelmusig/lib) 🎉
+
+A Fully Typed Apple Music API Client and the foundation of the Öpfelmusig App. Currently no docs and also closed source.
+
+### Fixed
+
+- Seeking not working due to a bug in NuxtUI v4.11.0
+
+## v0.1.10
 
 ### Added
 
@@ -9,3 +21,7 @@
 ### Fixed
 
 - Show the settings button even if the profile request has an error
+
+## 27.08.2026
+
+🎉 Öpfelmusig public release 🎉
