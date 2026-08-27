@@ -1,3 +1,9 @@
+## v0.1.12
+
+### Added
+
+- Directional artwork flip animation
+
 ## v0.1.11
 
 ### Announcements
