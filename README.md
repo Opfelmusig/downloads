@@ -2,6 +2,8 @@ Download Öpfelmusig, an alternative Apple Music Client.
 
 Source Code will stay private.
 
+Download here: [Latest](https://github.com/opfelmusig/downloads/releases/latest)
+
 ### Restrictions
 
 - Max `256 kbps AAC-LC stereo` (Apple Music Web Quality)
