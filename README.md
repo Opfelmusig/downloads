@@ -16,6 +16,8 @@ An alternative Apple Music Client.
 
 ## Setup
 
+A valid Apple Music subscription is required.
+
 ### Apple Music Token
 
 1. Open https://music.apple.com
@@ -36,6 +38,7 @@ When the Widevine error appears during playback, click Open folder. Add either `
 
 ## Features
 
+- Apple Music Playback
 - Browse Apple Music Catalog
 - Albums, artists, playlists, history, and recommendations
 - Synchronized lyrics with translations and transliterations
@@ -47,9 +50,11 @@ When the Widevine error appears during playback, click Open folder. Add either `
 
 ## Restrictions
 
-- Max `256 kbps AAC-LC stereo` (Apple Music Web Quality)
-- Can break at any time (uses private undocumented Apple Music APIs)
-- First load and login can take its time especially on Linux
+- Music videos are not supported and are intentionally hidden.
+- No Lossless, Dolby Atmos, or Spatial Audio. Playback is limited to 256 kbps AAC-LC stereo.
+- Apple Music tokens can expire, requiring you to sign in again.
+- Features may stop working when Apple changes its private APIs.
+- First launch and initial synchronization may take a while, particularly on Linux.
 
 ## Bug and Feature Reports
 
