@@ -1,8 +1,15 @@
-Download Öpfelmusig, an alternative Apple Music Client.
+<div align="center">
+  <img align="center" width="128px" src="https://github.com/user-attachments/assets/a9ed9c53-84ab-4a65-a7d0-50b42a9552d5" />
+  <h1 align="center">Öpfelmusig</h1>
 
-Source Code will stay private.
+An alternative Apple Music Client.
 
-Download here: [Latest](https://github.com/opfelmusig/downloads/releases/latest)
+</div>
+<br>
+
+> \[!IMPORTANT]
+>
+> Source Code will stay private.
 
 ### Restrictions
 
