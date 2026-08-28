@@ -10,7 +10,7 @@ An alternative Apple Music client.
 
 > \[!IMPORTANT]
 >
-> The source code will remain private.
+> The source code is currently private. This might change in the future.
 
 ### Download
 [Latest Version](https://github.com/opfelmusig/downloads/releases/latest)
