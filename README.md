@@ -2,7 +2,7 @@
   <img align="center" width="128px" src="https://github.com/user-attachments/assets/a9ed9c53-84ab-4a65-a7d0-50b42a9552d5" />
   <h1 align="center">Öpfelmusig</h1>
 
-An alternative Apple Music Client.  
+An alternative Apple Music client.  
 Öpfelmusig is the literal Swiss German translation of "Apple Music"
 
 </div>
@@ -10,7 +10,7 @@ An alternative Apple Music Client.
 
 > \[!IMPORTANT]
 >
-> Source Code will stay private.
+> The source code will remain private.
 
 ### Download
 [Latest Version](https://github.com/opfelmusig/downloads/releases/latest)
@@ -30,7 +30,7 @@ A valid Apple Music subscription is required.
 5. Search or filter the list for the cookie named media-user-token or similar media user identification.
 6. Click on that token and copy the full text string shown in the cookie value box at the bottom of the panel.
 
-### Widevine license
+### Widevine credentials
 
 > \[!CAUTION]
 >
@@ -46,10 +46,14 @@ When the Widevine error appears during playback, click Open folder. Add either `
 - Albums, artists, playlists, history, and recommendations
 - Synchronized lyrics with translations and transliterations
 - Animated Artworks
-- Edit Library
-  - Create/Delete/Reorder/Move Playlist and Playlist folders
-  - Add/Remove/Favorite/Dislike/Pin/Unpin Songs/Albums/Artists/Playlists
-- Sends Activity to Apple Music so recently played, stats.fm and apple music data exports still work
+- Library management
+  - Add and remove songs and albums
+  - Favorite, unfavorite, or mark items as Suggest Less
+  - Pin and unpin songs, albums, artists, and playlists
+  - Create, edit, move, and delete playlists
+  - Add, remove, and reorder playlist tracks
+  - Create playlist folders and organize playlists inside them
+- Reports playback activity to Apple Music so Recently Played, recommendations, stats.fm, and Apple Music data exports continue to work
 - Immersive player and animated artwork
 - Mini-player and lyrics widgets
 - Equalizer
@@ -64,12 +68,12 @@ When the Widevine error appears during playback, click Open folder. Add either `
 - Features may stop working when Apple changes its private APIs.
 - First launch and initial synchronization may take a while, particularly on Linux.
 
-## Features Ideas
+## Feature Ideas
 
 Features that may be added in the future based on interest or whenever I feel like it.
 
-- Control Playback from your phone in the same network
-- Apples infinity play
+- Control playback from a phone on the same local network
+- Apple Music Autoplay
 - Themes (color or design)
 - Crossfade
 - Last.fm
@@ -80,7 +84,7 @@ Features that may be added in the future based on interest or whenever I feel li
 
 ## Bug and Feature Reports
 
-Just report them here in this repo as issues. Include the details in Settings -> Info.
+Just report them here in this repo as issues. Include the details in Settings > Info.
 
 ## Showcase
 
