@@ -71,6 +71,7 @@ Features that may be added in the future based on interest or whenever I feel li
 - Statistics
 - Library Backup (export/import)
 - Better Keyboard navigation
+- Apple Music login instead of token based authentication
 
 ## Bug and Feature Reports
 
