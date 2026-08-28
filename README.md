@@ -45,6 +45,11 @@ When the Widevine error appears during playback, click Open folder. Add either `
 - Browse Apple Music Catalog
 - Albums, artists, playlists, history, and recommendations
 - Synchronized lyrics with translations and transliterations
+- Animated Artworks
+- Edit Library
+  - Create/Delete/Reorder/Move Playlist and Playlist folders
+  - Add/Remove/Favorite/Dislike/Pin/Unpin Songs/Albums/Artists/Playlists
+- Sends Activity to Apple Music so recently played, stats.fm and apple music data exports still work
 - Immersive player and animated artwork
 - Mini-player and lyrics widgets
 - Equalizer
