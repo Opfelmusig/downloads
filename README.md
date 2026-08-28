@@ -57,6 +57,19 @@ When the Widevine error appears during playback, click Open folder. Add either `
 - Features may stop working when Apple changes its private APIs.
 - First launch and initial synchronization may take a while, particularly on Linux.
 
+## Features Ideas
+
+Features that may be added in the future based on interest or whenever I feel like it.
+
+- Control Playback from your phone in the same network
+- Apples infinity play
+- Themes (color or design)
+- Crossfade
+- Last.fm
+- Statistics
+- Library Backup (export/import)
+- Better Keyboard navigation
+
 ## Bug and Feature Reports
 
 Just report them here in this repo as issues. Include the details in Settings -> Info.
