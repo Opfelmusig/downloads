@@ -1,3 +1,10 @@
+## v0.1.13
+
+### Fixed
+
+- Animated Artwork not working sometimes
+- Show player even if there is no song playing
+
 ## v0.1.12
 
 ### Added
