@@ -15,6 +15,8 @@ An alternative Apple Music Client.
 ### Download
 [Latest Version](https://github.com/opfelmusig/downloads/releases/latest)
 
+On macOS, the app is not signed or notarized and may appear damaged. After installing it, run `sudo xattr -rd com.apple.quarantine "/Applications/Öpfelmusig.app"`.
+
 ## Setup
 
 A valid Apple Music subscription is required.
