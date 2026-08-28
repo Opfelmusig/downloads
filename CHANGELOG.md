@@ -1,3 +1,15 @@
+## v0.1.17
+
+### Added
+
+- More url scheme actions like pause and open
+- Activity reporting toggle
+- Show App version in RPC
+
+### Fixed
+
+- Discord RPC now hides when paused
+
 ## v0.1.13
 
 ### Fixed
