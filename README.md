@@ -59,6 +59,7 @@ When the Widevine error appears during playback, click Open folder. Add either `
 - Equalizer
 - Discord Rich Presence
 - Native media controls and system-tray support
+- Updater (Settings > Info > Check for updates)
 
 ## Restrictions
 
