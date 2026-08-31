@@ -1,3 +1,11 @@
+## v0.1.22
+
+Cut binary size by ~50%.
+
+- Linux: `16 MB -> 6.5 MB` ~60% smaller (excluding AppImage)
+- Windows: `12 MB -> 5.5 MB` ~55% smaller
+- macOS: `17 MB -> 9.5 MB` ~45% smaller
+
 ## v0.1.20
 
 ### Announcement
