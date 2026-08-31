@@ -1,3 +1,22 @@
+## v0.1.20
+
+### Announcement
+
+Öpfelmusig now uses selfhosted runners
+
+### Added
+
+- Check for update on startup and interval (can be disabled)
+- Better update error and state handling
+- Check for update in login and error pages
+- Clear cache size
+- New history grouping
+- Removed sidebar separate settings toggle
+
+### Fixed
+
+- Looping falling back to false
+
 ## v0.1.17
 
 ### Added
@@ -25,7 +44,7 @@
 
 ## v0.1.11
 
-### Announcements
+### Announcement
 
 🎉 Öpfelmusig Lib release [on npm](https://www.npmjs.com/package/@opfelmusig/lib) 🎉
 
