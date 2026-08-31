@@ -27,8 +27,8 @@ A valid Apple Music subscription is required.
 2. Open Dev Tools (press `F12` or right-click anywhere on the page and select Inspect).
 3. Navigate to the Application tab (or Storage tab depending on your browser).
 4. Look at the left sidebar menu, find Cookies, and click on `music.apple.com`.
-5. Search or filter the list for the cookie named media-user-token or similar media user identification.
-6. Click on that token and copy the full text string shown in the cookie value box at the bottom of the panel.
+5. Search or filter the list for the cookie named `media-user-token` or similar.
+6. Click on that token and copy the full text shown in the cookie value box at the bottom of the panel.
 
 ### Widevine credentials
 
