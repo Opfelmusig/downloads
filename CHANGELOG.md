@@ -11,7 +11,11 @@
 - Check for update in login and error pages
 - Clear cache size
 - New history grouping
-- Removed sidebar separate settings toggle
+
+### Removed
+
+- Separate sidebar open toggle
+- Intel Mac Support
 
 ### Fixed
 
