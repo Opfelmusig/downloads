@@ -118,7 +118,7 @@ Lyrics Widget (Also available with transparent background)
 
 ---
 
-:apple::musical_note: is brought to you by [Noan](https://waradu.dev).
+:apple::musical_note: is brought to you by [Waradu](https://waradu.dev).
 Check out my friends at [Epilogue](https://epilogue.team).
 
 Looking for a local first music player? Try out [Vleer](https://vleer.app).
