@@ -116,3 +116,7 @@ Immersive Mini Player
 Lyrics Widget (Also available with transparent background)  
 <img width="819" height="613" alt="lyrics widget" src="https://github.com/user-attachments/assets/2e8a284b-d993-4254-896a-79b7654537ab" />
 
+:apple::musical_note: is brought to you by [Noan](https://waradu.dev).
+Check out my friends at [Epilogue](https://epilogue.team).
+
+Looking for a local first music player? Try out [Vleer](https://vleer.app).
