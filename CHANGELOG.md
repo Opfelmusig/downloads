@@ -1,3 +1,28 @@
+## v0.1.25
+
+### Added
+
+- See more in home
+- Repeat one
+- Combined right sidebar button
+- Many new keybinds! Check `Settings > Keybinds`
+- Right click song in player for menu
+- Show star in player, queue and history
+- Forward button in titlebar
+
+### Fixed
+
+- Wait for image to load before flipping artwork
+- Hide deleted media
+- Player overflowing
+- Made error page also show correctly on fatal error
+- Lyrics mount fast scroll
+- Messy/buggy context menu handling
+- Player Song and Artist/Album separator
+- Titlebar buttons hide and cause layout shift
+- Queue wrapping issues
+- Queue context hidden even when repeating
+
 ## v0.1.22
 
 Cut binary size by ~50%.
