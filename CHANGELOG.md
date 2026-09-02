@@ -10,7 +10,7 @@
 - Show star in player, queue and history
 - Forward button in titlebar
 
-### Fixed
+### Fixed
 
 - Wait for image to load before flipping artwork
 - Hide deleted media
