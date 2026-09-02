@@ -80,8 +80,9 @@ Features that may be added in the future based on interest or whenever I feel li
 - Last.fm
 - Statistics
 - Library Backup (export/import)
-- Better Keyboard navigation
 - Apple Music login instead of token based authentication
+- Volume normalization
+- Command pallete
 
 ## Bug and Feature Reports
 
