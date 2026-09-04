@@ -1,3 +1,31 @@
+## v0.1.26
+
+### Added
+
+- Command palette!
+  - Navigate Pages, playlists and search catalog
+  - Control playback
+  - Manage current song like favorite, pin, open, copy link and more
+  - Open and close immersive mode, mini player, lyrics widget and sidebar
+  - Toggle quick settings
+  - Manage the app like check for updates, clear caches, reload, quit and more
+- Resizable sidebar and Player Sidebar
+- Featured artists in playlists
+- Copy öpfelmusig links to songs and albums
+- Add to library confirmation
+- Change search scope keybind
+
+### Changed
+
+- Seach keybind to `ctrl/cmd+f`
+
+### Fixed
+
+- Back links looping around
+- Cleaned up messy and buggy mutation dialogs
+- Debug dev tools arrow in compact sidebar
+- Lyrics jump while resizing
+
 ## v0.1.25
 
 ### Added
