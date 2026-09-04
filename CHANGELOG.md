@@ -19,7 +19,7 @@
 
 - Seach keybind to `ctrl/cmd+f`
 
-### Fixed
+### Fixed
 
 - Back links looping around
 - Cleaned up messy and buggy mutation dialogs
