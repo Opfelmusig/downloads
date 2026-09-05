@@ -1,3 +1,13 @@
+## v0.1.27
+
+### Added
+
+- Double click to set resize to default
+
+### Fixed
+
+- Sidebar always full width
+
 ## v0.1.26
 
 ### Added
