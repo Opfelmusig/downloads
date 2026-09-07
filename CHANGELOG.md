@@ -1,3 +1,23 @@
+## v0.1.28
+
+### Added
+
+- Play album from context menu
+- Popularity dot in albums
+- Option to disable titlebar controls on non macOS operating systems
+
+### Changed
+
+- Move right panel and debug button to titlebar
+- Reworked titlebar behind the scenes to make it more consistent
+- Changed titlebar badge design
+- Artist header and latest release design
+
+### Fixed
+
+- Quit via command palette
+- Search via command palette was not saved to search history
+
 ## v0.1.27
 
 ### Added
