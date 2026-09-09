@@ -1,3 +1,14 @@
+## v0.1.29
+
+### Added
+
+- More link actions (copy opfelmusig link, copy apple music link, open in apple music app)
+
+### Changed
+
+- Unified and more stable titlebar across systems
+- Moved volume control to titlebar
+
 ## v0.1.28
 
 ### Added
