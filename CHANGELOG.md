@@ -1,3 +1,22 @@
+## v0.1.30
+
+### Added
+
+- Clickable links in player
+- Sync the scrolling text to scroll together
+- Empty player state
+
+### Changed
+
+- Better open catalog album or artist links
+- Moved settings to the titlebar
+
+### Fixed
+
+- Scrolling text jump on hover
+- Artist image loader not being fully rounded
+- Navigation keybinds not correctly mapped
+
 ## v0.1.29
 
 ### Added
@@ -8,6 +27,10 @@
 
 - Unified and more stable titlebar across systems
 - Moved volume control to titlebar
+
+### Fixed
+
+- Context menu delay
 
 ## v0.1.28
 
