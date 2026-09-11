@@ -1,3 +1,13 @@
+## v0.1.32
+
+### Added
+
+- Search and filter for playlist
+
+### Fixed
+
+- Library resources in home not correctly showing
+
 ## v0.1.31
 
 ### Added
