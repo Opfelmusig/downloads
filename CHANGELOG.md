@@ -1,3 +1,22 @@
+## v0.1.33
+
+### Added
+
+- Clickable links in RPC
+- Download button in RPC
+
+### Changed
+
+- Mini player not live reloads on mini player settings changes
+- New mini player design "Default" and renamed the old default to "Large"
+- Combine artist and album in RPC
+
+### Fixed
+
+- Volume with keybinds affects progress bar
+- Playlist reordering reset
+- Seeking not working in mini player
+
 ## v0.1.32
 
 ### Added
