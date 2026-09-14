@@ -1,3 +1,10 @@
+## v0.1.34
+
+### Added
+
+- Add albums to the queue
+- Album, artist and song stations
+
 ## v0.1.33
 
 ### Added
