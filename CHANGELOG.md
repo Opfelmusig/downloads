@@ -1,3 +1,9 @@
+## v0.1.35
+
+### Added
+
+- Playlist artwork in add to playlist modal
+
 ## v0.1.34
 
 ### Added
