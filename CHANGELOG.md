@@ -1,3 +1,9 @@
+## v0.1.36
+
+### Fixed
+
+- Apple Music developer token fetcher
+
 ## v0.1.35
 
 ### Added
